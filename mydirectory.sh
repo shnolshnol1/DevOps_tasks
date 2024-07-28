@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Создаем директорию
 mkdir MyDirectory
 
